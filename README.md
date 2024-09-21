@@ -3,3 +3,4 @@ This personal voice assistant will be easy to use and will reduce the manual hum
 
 #### Important Note
 Please do not copy the code directly. Instead, take the time to understand how it works and adapt it to your needs. This will help you learn and make the most out of this project.
+![image](https://github.com/user-attachments/assets/aeaf30b8-66a9-4b9d-a5a3-648c9dca59d4)
